@@ -1,6 +1,6 @@
 ### LeetCode java题解
 
-[1.两数之和](src/main/java/com/leetcode/editor/cn/TwoSum.md)  
+1.两数之和 [[java](src/main/java/com/leetcode/editor/cn/TwoSum.java)]  [[题解](src/main/java/com/leetcode/editor/cn/TwoSum.md)]   
 [2.两数相加](src/main/java/com/leetcode/editor/cn/AddTwoNumbers.md)  
 [7.整数反转](src/main/java/com/leetcode/editor/cn/ReverseInteger.md)  
 [9.回文数](src/main/java/com/leetcode/editor/cn/PalindromeNumber.md)  
