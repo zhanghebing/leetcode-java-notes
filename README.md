@@ -14,7 +14,7 @@
 23.合并K个排序链表  [[java](src/main/java/com/leetcode/editor/cn/MergeKSortedLists.java)]  [[题解](src/main/java/com/leetcode/editor/cn/MergeKSortedLists.md)]   
 24.两两交换链表中的节点  [[java](src/main/java/com/leetcode/editor/cn/SwapNodesInPairs.java)]  [[题解](src/main/java/com/leetcode/editor/cn/SwapNodesInPairs.md)]  
 26.删除排序数组中的重复项  [[java](src/main/java/com/leetcode/editor/cn/RemoveDuplicatesFromSortedArray.java)]  [[题解](src/main/java/com/leetcode/editor/cn/RemoveDuplicatesFromSortedArray.md)]    
-  [[java](src/main/java/)]  [[题解](src/main/java/)]  
+27.移除元素  [[java](src/main/java/com/leetcode/editor/cn/RemoveElement.java)]  [[题解](src/main/java/com/leetcode/editor/cn/RemoveElement.md)]  
   [[java](src/main/java/)]  [[题解](src/main/java/)]  
   [[java](src/main/java/)]  [[题解](src/main/java/)]  
   [[java](src/main/java/)]  [[题解](src/main/java/)]  
