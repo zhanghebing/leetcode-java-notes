@@ -67,6 +67,9 @@ public class MergeKSortedLists {
     class Solution {
 
         public ListNode mergeKLists(ListNode[] lists) {
+            if(lists == null || lists.length == 0){
+                return null;
+            }
             return mergeLists(lists, 0, lists.length - 1);
         }
 
