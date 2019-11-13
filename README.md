@@ -12,8 +12,16 @@
 20.有效的括号  [[java](src/main/java/com/leetcode/editor/cn/ValidParentheses.java)]  [[题解](src/main/java/com/leetcode/editor/cn/ValidParentheses.md)]   
 21.合并两个有序链表  [[java](src/main/java/com/leetcode/editor/cn/MergeTwoSortedLists.java)]  [[题解](src/main/java/com/leetcode/editor/cn/MergeTwoSortedLists.md)]   
 23.合并K个排序链表  [[java](src/main/java/com/leetcode/editor/cn/MergeKSortedLists.java)]  [[题解](src/main/java/com/leetcode/editor/cn/MergeKSortedLists.md)]   
-  [[java](src/main/java/)]  [[题解](src/main/java/)]  
+24.两两交换链表中的节点  [[java](src/main/java/com/leetcode/editor/cn/SwapNodesInPairs.java)]  [[题解](src/main/java/com/leetcode/editor/cn/SwapNodesInPairs.md)]  
   [[java](src/main/java/)]  [[题解](src/main/java/)]    
+  [[java](src/main/java/)]  [[题解](src/main/java/)]  
+  [[java](src/main/java/)]  [[题解](src/main/java/)]  
+  [[java](src/main/java/)]  [[题解](src/main/java/)]  
+  [[java](src/main/java/)]  [[题解](src/main/java/)]  
+  [[java](src/main/java/)]  [[题解](src/main/java/)]  
+  [[java](src/main/java/)]  [[题解](src/main/java/)]  
+  [[java](src/main/java/)]  [[题解](src/main/java/)]  
+  [[java](src/main/java/)]  [[题解](src/main/java/)]  
   
   
   
