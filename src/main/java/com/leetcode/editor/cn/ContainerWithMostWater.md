@@ -13,3 +13,22 @@
 <pre><strong>输入:</strong> [1,8,6,2,5,4,8,3,7]
 <strong>输出:</strong> 49</pre>
 <div><div>Related Topics</div><div><li>数组</li><li>双指针</li></div></div>
+
+## 题解
+
+```java
+        public int maxArea(int[] height) {
+            int i=0,j = height.length-1,res = 0;
+            while(i<j){
+                if (height[i] < height[j]){
+                    res = Math.max(res, height[i] * (j - i));
+                    i++;
+                }
+                else{
+                    res = Math.max(res, height[j] * (j - i));
+                    j--;
+                }
+            }
+            return res;
+        }
+```

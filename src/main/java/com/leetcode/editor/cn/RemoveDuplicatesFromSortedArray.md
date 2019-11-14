@@ -37,3 +37,21 @@ for (int i = 0; i &lt; len; i++) {
 }
 </pre>
 <div><div>Related Topics</div><div><li>数组</li><li>双指针</li></div></div>
+
+## 题解
+
+```java
+    class Solution {
+
+        public int removeDuplicates(int[] nums) {
+            int n = 0;
+            for (int i = 0; i < nums.length; i++) {
+                if (nums[n] != nums[i]) {
+                    nums[++n] = nums[i];
+                }
+            }
+            return n + 1;
+        }
+
+    }
+```

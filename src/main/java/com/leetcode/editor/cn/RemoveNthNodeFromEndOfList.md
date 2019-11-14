@@ -15,3 +15,41 @@
 
 <p>你能尝试使用一趟扫描实现吗？</p>
 <div><div>Related Topics</div><div><li>链表</li><li>双指针</li></div></div>
+
+## 题解
+
+```java
+    /**
+     * Definition for singly-linked list.
+     * public class ListNode {
+     * int val;
+     * ListNode next;
+     * ListNode(int x) { val = x; }
+     * }
+     */
+    class Solution {
+
+        public ListNode removeNthFromEnd(ListNode head, int n) {
+            ListNode dummy = new ListNode(0);
+            dummy.next = head;
+            int length = 0;
+            ListNode first = head;
+            while (first != null) {
+                first = first.next;
+                length++;
+            }
+
+            length -= n;
+            first = dummy;
+            while (length > 0) {
+                length--;
+                first = first.next;
+            }
+
+            first.next = first.next.next;
+
+            return dummy.next;
+        }
+
+    }
+```

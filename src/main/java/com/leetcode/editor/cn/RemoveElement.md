@@ -42,3 +42,22 @@ for (int i = 0; i &lt; len; i++) {
 }
 </pre>
 <div><div>Related Topics</div><div><li>数组</li><li>双指针</li></div></div>
+
+## 题解
+
+```java
+    class Solution {
+
+        public int removeElement(int[] nums, int val) {
+            int i = 0;
+            for (int j=0;j<nums.length;j++){
+                if(nums[j] != val){
+                    nums[i] = nums[j];
+                    i++;
+                }
+            }
+            return i;
+        }
+
+    }
+```

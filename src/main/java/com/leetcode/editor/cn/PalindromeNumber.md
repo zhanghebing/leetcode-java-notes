@@ -24,3 +24,23 @@
 
 <p>你能不将整数转为字符串来解决这个问题吗？</p>
 <div><div>Related Topics</div><div><li>数学</li></div></div>
+
+## 题解
+
+```java
+        public boolean isPalindrome(int x) {
+            if(x < 0){
+                return false;
+            }
+
+            int cur = 0;
+            int num = x;
+
+            while(num !=0){
+                cur = cur * 10 + num % 10;
+                num /= 10;
+            }
+
+            return cur == x;
+        }
+```
