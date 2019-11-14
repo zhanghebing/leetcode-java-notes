@@ -11,3 +11,33 @@
 <strong>原因：</strong>342 + 465 = 807
 </pre>
 <div><div>Related Topics</div><div><li>链表</li><li>数学</li></div></div>
+
+## 题解
+直接各位相加，考虑进位情况
+
+```java
+        public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+            ListNode dummyHead = new ListNode(0);
+            ListNode curr = dummyHead;
+            int carry = 0;
+            while (l1 != null || l2 != null) {
+                int x = (l1 != null) ? l1.val : 0;
+                int y = (l2 != null) ? l2.val : 0;
+                int sum = carry + x + y;
+                carry = sum / 10;
+                curr.next = new ListNode(sum % 10);
+                curr = curr.next;
+                if (l1 != null){
+                    l1 = l1.next;
+                }
+                if (l2 != null){
+                    l2 = l2.next;
+                }
+            }
+            if (carry > 0) {
+                curr.next = new ListNode(carry);
+            }
+            return dummyHead.next;
+        }
+```
+
