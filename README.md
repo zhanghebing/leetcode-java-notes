@@ -15,7 +15,7 @@
 24.两两交换链表中的节点  [[java](src/main/java/com/leetcode/editor/cn/SwapNodesInPairs.java)]  [[题解](src/main/java/com/leetcode/editor/cn/SwapNodesInPairs.md)]  
 26.删除排序数组中的重复项  [[java](src/main/java/com/leetcode/editor/cn/RemoveDuplicatesFromSortedArray.java)]  [[题解](src/main/java/com/leetcode/editor/cn/RemoveDuplicatesFromSortedArray.md)]    
 27.移除元素  [[java](src/main/java/com/leetcode/editor/cn/RemoveElement.java)]  [[题解](src/main/java/com/leetcode/editor/cn/RemoveElement.md)]  
-28.实现strStr() [[java](src/main/java/com/leetcode/editor/cn/ImplementStrstr.java)]  [[题解](src/main/java/com/leetcode/editor/cn/ImplementStrstr.md)] 
+28.实现strStr() [[java](src/main/java/com/leetcode/editor/cn/ImplementStrstr.java)]  [[题解](src/main/java/com/leetcode/editor/cn/ImplementStrstr.md)]   
 34.在排序数组中查找元素的第一个和最后一个位置 [[java](src/main/java/com/leetcode/editor/cn/FindFirstAndLastPositionOfElementInSortedArray.java)]  [[题解](src/main/java/com/leetcode/editor/cn/FindFirstAndLastPositionOfElementInSortedArray.md)]   
 35.搜索插入位置  [[java](src/main/java/com/leetcode/editor/cn/SearchInsertPosition.java)]  [[题解](src/main/java/com/leetcode/editor/cn/SearchInsertPosition.md)]   
 46.全排列  [[java](src/main/java/com/leetcode/editor/cn/Permutations.java)]  [[题解](src/main/java/com/leetcode/editor/cn/Permutations.md)]  
