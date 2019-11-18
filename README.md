@@ -20,7 +20,7 @@
 35.搜索插入位置  [[java](src/main/java/com/leetcode/editor/cn/SearchInsertPosition.java)]  [[题解](src/main/java/com/leetcode/editor/cn/SearchInsertPosition.md)]   
 46.全排列  [[java](src/main/java/com/leetcode/editor/cn/Permutations.java)]  [[题解](src/main/java/com/leetcode/editor/cn/Permutations.md)]  
 48.旋转图像  [[java](src/main/java/com/leetcode/editor/cn/RotateImage.java)]  [[题解](src/main/java/com/leetcode/editor/cn/RotateImage.md)]  
-  [[java]()]  [[题解]()]  
+50.Pow(x,n)  [[java](src/main/java/com/leetcode/editor/cn/PowxN.java)]  [[题解](src/main/java/com/leetcode/editor/cn/PowxN.md)]  
   [[java]()]  [[题解]()]  
   [[java]()]  [[题解]()]  
   [[java]()]  [[题解]()]  
