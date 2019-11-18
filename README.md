@@ -19,7 +19,7 @@
 34.在排序数组中查找元素的第一个和最后一个位置 [[java](src/main/java/com/leetcode/editor/cn/FindFirstAndLastPositionOfElementInSortedArray.java)]  [[题解](src/main/java/com/leetcode/editor/cn/FindFirstAndLastPositionOfElementInSortedArray.md)]   
 35.搜索插入位置  [[java](src/main/java/com/leetcode/editor/cn/SearchInsertPosition.java)]  [[题解](src/main/java/com/leetcode/editor/cn/SearchInsertPosition.md)]   
 46.全排列  [[java](src/main/java/com/leetcode/editor/cn/Permutations.java)]  [[题解](src/main/java/com/leetcode/editor/cn/Permutations.md)]  
-  [[java]()]  [[题解]()]  
+48.旋转图像  [[java](src/main/java/com/leetcode/editor/cn/RotateImage.java)]  [[题解](src/main/java/com/leetcode/editor/cn/RotateImage.md)]  
   [[java]()]  [[题解]()]  
   [[java]()]  [[题解]()]  
   [[java]()]  [[题解]()]  
