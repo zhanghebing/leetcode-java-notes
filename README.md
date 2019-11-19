@@ -1,5 +1,14 @@
 ## LeetCode java题解
 
+| #        | Title           | Solution  | Difficulty
+| ------------- |:-------------:| -----:| -----:|
+|       |  |  |Easy|
+| 2 |       |    |Easy|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/)      | [[java](src/main/java/com/leetcode/editor/cn/TwoSum.java)]  [[题解](src/main/java/com/leetcode/editor/cn/TwoSum.md)]  |Easy|
+
+
+
+
 1.两数之和 [[java](src/main/java/com/leetcode/editor/cn/TwoSum.java)]  [[题解](src/main/java/com/leetcode/editor/cn/TwoSum.md)]  
 2.两数相加 [[java](src/main/java/com/leetcode/editor/cn/AddTwoNumbers.java)]  [[题解](src/main/java/com/leetcode/editor/cn/AddTwoNumbers.md)]  
 7.整数反转 [[java](src/main/java/com/leetcode/editor/cn/ReverseInteger.java)]  [[题解](src/main/java/com/leetcode/editor/cn/ReverseInteger.md)]  
